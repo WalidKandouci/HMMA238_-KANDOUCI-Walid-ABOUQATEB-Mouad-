@@ -1,5 +1,5 @@
-# HMMA238 (ABOUQATEB Mouad & KANDOUCI Walid & SAHBANE Abdesstar)
-________________________________________________________________
+# _HMMA238: ABOUQATEB Mouad & KANDOUCI Walid & SAHBANE Abdesstar_
+
 ## Exercice 1] Jeu de la vie
 "The game of life" ou en français "jeu de la vie" est un jeu avec 0 joueur, en effet c'est un jeu dans lequel on choisit nos cases vivantes initiales et nous laissons l'algorithme faire le reste.
 Dans cet exercice, nous allons définir des fonctions qui vont nous permettre de calculer le nombre de voisins de nos cases, ainsi que d'afficher les résultats obtenus au bout de plusieurs itérations.
