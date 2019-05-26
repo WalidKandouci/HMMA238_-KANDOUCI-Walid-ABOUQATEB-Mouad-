@@ -6,3 +6,5 @@ Dans cet exercice, nous allons définir des fonctions qui vont nous permettre de
 Nous allons terminer notre exercice avec une fonction qui va nous permettre de visualiser les itérations de n'importe quelles matrices, en effet, on choisit nos cases initiales, et on pourra observer l'évolution de notre algorithme.
 
 ## Exercice 2] Régression logistique (données MNIST)
+
+La base de données "_MNIST_" est une base de donnée de chiffres manuscrits très utilisée en Machine Learning. Nous allons d'abord afficher que les chiffres "_3_" et "_7_", puis, nous allons utilisé la fonction "_lLogisticRegressionn_" qui nous permet de faire la régression logistique. Enfin, afin de visualisé nos données dans un espace de dimension 2, nous allons appliquer une analyse en composante principale "_ACP_" sur notre base de données
