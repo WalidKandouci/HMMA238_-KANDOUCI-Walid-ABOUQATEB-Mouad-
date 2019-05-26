@@ -1,6 +1,5 @@
 # HMMA238: Développement logiciel
-# TP
-# ABOUQATEB Mouad & KANDOUCI Walid & SAHBANE Abdesstar
+# TP: ABOUQATEB Mouad & KANDOUCI Walid & SAHBANE Abdesstar
 
 ## Exercice 1] Jeu de la vie
 "_The game of life_" ou en français "_jeu de la vie_" est un jeu avec 0 joueur, en effet, c'est un jeu dans lequel on choisit nos cases vivantes initiales et nous laissons l'algorithme faire le reste.
