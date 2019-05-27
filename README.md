@@ -8,4 +8,4 @@ Nous allons terminer notre exercice avec une fonction qui va nous permettre de v
 
 ## Exercice 2] Régression logistique (données MNIST)
 
-La base de données "_MNIST_" est une base de données de chiffres manuscrits très utilisée en Machine Learning. Nous allons d'abord afficher que les chiffres "_3_" et "_7_", puis, nous allons utiliser la fonction "_lLogisticRegressionn_" qui nous permet de faire la régression logistique. Enfin, afin de visualiser nos données dans un espace de dimension 2, nous allons appliquer une analyse en composante principale "_ACP_" sur notre base de données.
+La base de données "_MNIST_" est une base de données de chiffres manuscrits très utilisée en Machine Learning. Nous allons d'abord afficher que les chiffres "_3_" et "_7_", puis, nous allons utiliser la fonction "LogisticRegression" qui nous permet de faire la régression logistique. Enfin, afin de visualiser nos données dans un espace de dimension 2, nous allons appliquer une analyse en composante principale "_ACP_" sur notre base de données.
